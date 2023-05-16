@@ -10,7 +10,7 @@
 | 20/0030469  |  Felipe Cândido de Moura|
 
 ## Sobre 
-Resoluções de questões de juizes online (code forces, online judge e vjudge),foram quatro questões resolvidas no total.
+Resoluções de questões de juizes online (code forces, online judge, vjudge e SPOJ),foram cinco questões resolvidas no total.
 
 ## Screenshots
 Em cada pasta de questões possui seu enunciado, código e print da submissão no juiz online.
