@@ -1,44 +1,30 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+# At Graphs
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0014447  |  André Corrêa da Silva |
+| 20/0030469  |  Felipe Cândido de Moura|
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resoluções de questões de juizes online (code forces, online judge e vjudge),foram quatro questões resolvidas no total.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Em cada pasta de questões possui seu enunciado, código e print da submissão no juiz online.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Uso
+Para se utilizar os codigos, deve-se compilar eles com o g++ com as seguintes flags:
+    
+    g++ nome_arquivo.cpp -o nome_arquivo -O2 -Wall
+    
+## Link do video de apresentação
+[gravação dia 01/05/23](https://unbbr-my.sharepoint.com/:v:/g/personal/200014447_aluno_unb_br/ETZsPIdLu1JKjfno9wEsTZEBrcXViZS4HPyYWHU8_En3RA?e=LOHKmF)
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Questões muito interessantes e com temas divertidos.
 
 
 
